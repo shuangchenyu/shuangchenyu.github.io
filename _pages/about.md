@@ -1,4 +1,4 @@
-
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -14,7 +14,7 @@ My main research interests are **Blockchain and Cryptocurrency** and **Financial
 
 Email: yushch.18@sem.tsinghua.edu.cn
 
-
+You can find my CV here: [Shuangchen Yu's Curriculum Vitae]()
 
 Education
 ======
